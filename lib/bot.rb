@@ -2,7 +2,7 @@ module NewWave
   class Bot < SlackRubyBot::Bot
     help do
       title 'Hi there! My name is noba. I am a bot that provides relevant info about the #EndSars protests in Nigeria'
-      
+
       command :intro do
         title 'intro'
         desc 'Introduces the #EndSars protest'

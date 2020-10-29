@@ -4,7 +4,7 @@
 
 noba updates on the reason for the protest, the demands, the government's response, the massacre and the present state of things in Nigeria.
 
-![screenshot](./asset/screenshot.png)
+![screenshot](screenshot.PNG)
 
 ## Built With
 * Ruby
