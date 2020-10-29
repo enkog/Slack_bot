@@ -16,7 +16,7 @@ noba updates on the reason for the protest, the demands, the government's respon
 
 ## Video Explanation
 
-Here is the [video explanation](https://www.loom.com/share/c6738ee94321498bacc9f3c6eb38448e) of this project.
+Here is the [video explanation](https://www.loom.com/share/87df0e4d26c543a29efe60ef19f88646) of this project.
 
 ## Prerequisities
 
