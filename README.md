@@ -12,7 +12,6 @@ noba updates on the reason for the protest, the demands, the government's respon
 * Slack API
 * VS code
 * Ruby gems
-* slack-ruby-bot gem
 
 ## Video Explanation
 
