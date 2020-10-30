@@ -62,6 +62,6 @@ This project is [MIT](lic.url) licensed.
 
 ## Acknowledgments
 
-Microverse for showing the way for this project to happen.
-Slack.com for the provision of support and resources needed for this project.
+Microverse for showing the way for this project to happen.<br>
+Slack.com for the provision of support and resources needed for this project.<br>
 Daniel Doubrovkine for putting together an amazing documentation.
